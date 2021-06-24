@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Roboto-Regular';
+    src: url('../font/Roboto/Roboto-Regular.ttf'); 
+}
+@font-face {
+	font-family: 'Roboto-Medium';
+    src: url('../font/Roboto/Roboto-Medium.ttf'); 
+}
+@font-face {
+	font-family: 'Roboto-Bold';
+    src: url('../font/Roboto/Roboto-Bold.ttf'); 
+}
+
+@font-face {
+	font-family: 'PTSansCaption-Regular';
+    src: url('../font/IBM_Plex_Sans/IBMPlexSans-Regular.ttf'); 
+}
